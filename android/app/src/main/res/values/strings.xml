@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KindaJobsSP</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDLIzgSWbrnbcBgiDiOvlsrA8L4klGYzAk</string>
+</resources>
